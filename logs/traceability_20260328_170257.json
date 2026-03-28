@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp": "2026-03-28T17:02:57.290382",
+    "operation": "data_generation",
+    "details": {
+      "source": "sample_generator"
+    }
+  },
+  {
+    "timestamp": "2026-03-28T17:02:57.290391",
+    "operation": "stl_disaggregation",
+    "details": {
+      "sectors": [
+        "total",
+        "building",
+        "transport",
+        "industry"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-03-28T17:02:57.290393",
+    "operation": "preprocessing",
+    "details": {
+      "outlier_method": "winsorize"
+    }
+  }
+]
