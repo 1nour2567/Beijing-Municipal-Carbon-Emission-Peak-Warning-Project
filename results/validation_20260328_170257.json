@@ -1,0 +1,518 @@
+{
+  "timestamp": "2026-03-28T17:02:57.254398",
+  "checks": {
+    "annual_sum_match_total_2005": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 150.0,
+      "annual_value": 150.0
+    },
+    "annual_sum_match_total_2006": {
+      "passed": true,
+      "error": 1.8520810798833162e-16,
+      "monthly_sum": 153.4582353824089,
+      "annual_value": 153.45823538240893
+    },
+    "annual_sum_match_total_2007": {
+      "passed": true,
+      "error": 1.8111100897809343e-16,
+      "monthly_sum": 156.92977246812094,
+      "annual_value": 156.92977246812092
+    },
+    "annual_sum_match_total_2008": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 160.4096313857746,
+      "annual_value": 160.4096313857746
+    },
+    "annual_sum_match_total_2009": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 163.89257314362004,
+      "annual_value": 163.89257314362004
+    },
+    "annual_sum_match_total_2010": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 167.3731564160908,
+      "annual_value": 167.3731564160908
+    },
+    "annual_sum_match_total_2011": {
+      "passed": true,
+      "error": 1.6635884377700134e-16,
+      "monthly_sum": 170.84579806591103,
+      "annual_value": 170.845798065911
+    },
+    "annual_sum_match_total_2012": {
+      "passed": true,
+      "error": 1.6305749147700317e-16,
+      "monthly_sum": 174.30483673552934,
+      "annual_value": 174.30483673552936
+    },
+    "annual_sum_match_total_2013": {
+      "passed": true,
+      "error": 1.5990195833328574e-16,
+      "monthly_sum": 177.74459879449546,
+      "annual_value": 177.7445987944955
+    },
+    "annual_sum_match_total_2014": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 181.1594658901219,
+      "annual_value": 181.1594658901219
+    },
+    "annual_sum_match_total_2015": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 184.54394331796266,
+      "annual_value": 184.54394331796266
+    },
+    "annual_sum_match_total_2016": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 187.8927284067373,
+      "annual_value": 187.8927284067373
+    },
+    "annual_sum_match_total_2017": {
+      "passed": true,
+      "error": 1.4864850296573678e-16,
+      "monthly_sum": 191.20077809969715,
+      "annual_value": 191.20077809969712
+    },
+    "annual_sum_match_total_2018": {
+      "passed": true,
+      "error": 1.4615456223242887e-16,
+      "monthly_sum": 194.46337491131547,
+      "annual_value": 194.4633749113155
+    },
+    "annual_sum_match_total_2019": {
+      "passed": true,
+      "error": 1.4377912365905376e-16,
+      "monthly_sum": 197.67619044473352,
+      "annual_value": 197.67619044473355
+    },
+    "annual_sum_match_total_2020": {
+      "passed": true,
+      "error": 1.4151746713386583e-16,
+      "monthly_sum": 200.8353456716337,
+      "annual_value": 200.83534567163372
+    },
+    "annual_sum_match_total_2021": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 203.93746720206653,
+      "annual_value": 203.93746720206653
+    },
+    "annual_sum_match_total_2022": {
+      "passed": true,
+      "error": 1.373163846578344e-16,
+      "monthly_sum": 206.9797388070284,
+      "annual_value": 206.97973880702838
+    },
+    "annual_sum_match_total_2023": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 209.9599475009745,
+      "annual_value": 209.9599475009745
+    },
+    "annual_sum_match_total_2024": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 212.8765235445388,
+      "annual_value": 212.8765235445388
+    },
+    "annual_sum_match_total_2025": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 215.7285737890018,
+      "annual_value": 215.7285737890018
+    },
+    "annual_sum_match_building_2005": {
+      "passed": true,
+      "error": 2.7314611117300015e-16,
+      "monthly_sum": 52.02656795725492,
+      "annual_value": 52.02656795725493
+    },
+    "annual_sum_match_building_2006": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 53.281809009346894,
+      "annual_value": 53.281809009346894
+    },
+    "annual_sum_match_building_2007": {
+      "passed": true,
+      "error": 1.3022747887104753e-16,
+      "monthly_sum": 54.56165948383951,
+      "annual_value": 54.56165948383952
+    },
+    "annual_sum_match_building_2008": {
+      "passed": true,
+      "error": 1.2719487824522722e-16,
+      "monthly_sum": 55.862527293764046,
+      "annual_value": 55.86252729376405
+    },
+    "annual_sum_match_building_2009": {
+      "passed": true,
+      "error": 1.2426451688508657e-16,
+      "monthly_sum": 57.17985741796056,
+      "annual_value": 57.179857417960555
+    },
+    "annual_sum_match_building_2010": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 58.50823238645596,
+      "annual_value": 58.50823238645596
+    },
+    "annual_sum_match_building_2011": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 59.84151424498187,
+      "annual_value": 59.84151424498187
+    },
+    "annual_sum_match_building_2012": {
+      "passed": true,
+      "error": 1.161529524202901e-16,
+      "monthly_sum": 61.173024099211744,
+      "annual_value": 61.17302409921175
+    },
+    "annual_sum_match_building_2013": {
+      "passed": true,
+      "error": 1.1369456294082481e-16,
+      "monthly_sum": 62.49575330439679,
+      "annual_value": 62.4957533043968
+    },
+    "annual_sum_match_building_2014": {
+      "passed": true,
+      "error": 1.1136579893730942e-16,
+      "monthly_sum": 63.80259851232087,
+      "annual_value": 63.80259851232086
+    },
+    "annual_sum_match_building_2015": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 65.08661123125314,
+      "annual_value": 65.08661123125314
+    },
+    "annual_sum_match_building_2016": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 66.34125140172122,
+      "annual_value": 66.34125140172122
+    },
+    "annual_sum_match_building_2017": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 67.56063382900122,
+      "annual_value": 67.56063382900122
+    },
+    "annual_sum_match_building_2018": {
+      "passed": true,
+      "error": 4.1346828967299837e-16,
+      "monthly_sum": 68.73975620447703,
+      "annual_value": 68.73975620447706
+    },
+    "annual_sum_match_building_2019": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 69.87469792392314,
+      "annual_value": 69.87469792392314
+    },
+    "annual_sum_match_building_2020": {
+      "passed": true,
+      "error": 2.0025786365087617e-16,
+      "monthly_sum": 70.96277996841512,
+      "annual_value": 70.96277996841513
+    },
+    "annual_sum_match_building_2021": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 72.00267771446406,
+      "annual_value": 72.00267771446406
+    },
+    "annual_sum_match_building_2022": {
+      "passed": true,
+      "error": 1.9468396235180473e-16,
+      "monthly_sum": 72.99448061120822,
+      "annual_value": 72.99448061120823
+    },
+    "annual_sum_match_building_2023": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 73.93969510052167,
+      "annual_value": 73.93969510052167
+    },
+    "annual_sum_match_building_2024": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 74.84118983245499,
+      "annual_value": 74.84118983245499
+    },
+    "annual_sum_match_building_2025": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 75.70308499841364,
+      "annual_value": 75.70308499841364
+    },
+    "annual_sum_match_transport_2005": {
+      "passed": true,
+      "error": 1.8885404827223708e-16,
+      "monthly_sum": 37.623908105789596,
+      "annual_value": 37.6239081057896
+    },
+    "annual_sum_match_transport_2006": {
+      "passed": true,
+      "error": 1.8372333315014938e-16,
+      "monthly_sum": 38.67460510197707,
+      "annual_value": 38.67460510197708
+    },
+    "annual_sum_match_transport_2007": {
+      "passed": true,
+      "error": 1.789004310629151e-16,
+      "monthly_sum": 39.71721764662596,
+      "annual_value": 39.717217646625954
+    },
+    "annual_sum_match_transport_2008": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 40.73855617433344,
+      "annual_value": 40.73855617433344
+    },
+    "annual_sum_match_transport_2009": {
+      "passed": true,
+      "error": 1.7028625599182455e-16,
+      "monthly_sum": 41.726370200670424,
+      "annual_value": 41.72637020067042
+    },
+    "annual_sum_match_transport_2010": {
+      "passed": true,
+      "error": 1.6651987920958665e-16,
+      "monthly_sum": 42.670144797894714,
+      "annual_value": 42.67014479789472
+    },
+    "annual_sum_match_transport_2011": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 43.561812468899554,
+      "annual_value": 43.561812468899554
+    },
+    "annual_sum_match_transport_2012": {
+      "passed": true,
+      "error": 1.6004538575130782e-16,
+      "monthly_sum": 44.39632748076861,
+      "annual_value": 44.39632748076862
+    },
+    "annual_sum_match_transport_2013": {
+      "passed": true,
+      "error": 1.5729696283319208e-16,
+      "monthly_sum": 45.17205691464022,
+      "annual_value": 45.17205691464023
+    },
+    "annual_sum_match_transport_2014": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 45.89095363376769,
+      "annual_value": 45.89095363376769
+    },
+    "annual_sum_match_transport_2015": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 46.55849044206098,
+      "annual_value": 46.55849044206098
+    },
+    "annual_sum_match_transport_2016": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 47.1833509878895,
+      "annual_value": 47.1833509878895
+    },
+    "annual_sum_match_transport_2017": {
+      "passed": true,
+      "error": 2.9744201893352596e-16,
+      "monthly_sum": 47.776890320186844,
+      "annual_value": 47.77689032018683
+    },
+    "annual_sum_match_transport_2018": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 48.35239513794163,
+      "annual_value": 48.35239513794163
+    },
+    "annual_sum_match_transport_2019": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 48.92418935776498,
+      "annual_value": 48.92418935776498
+    },
+    "annual_sum_match_transport_2020": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 49.50664339158213,
+      "annual_value": 49.50664339158213
+    },
+    "annual_sum_match_transport_2021": {
+      "passed": true,
+      "error": 1.4178766921305695e-16,
+      "monthly_sum": 50.11315438808748,
+      "annual_value": 50.11315438808749
+    },
+    "annual_sum_match_transport_2022": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 50.755168832958795,
+      "annual_value": 50.755168832958795
+    },
+    "annual_sum_match_transport_2023": {
+      "passed": true,
+      "error": 1.3812685313775693e-16,
+      "monthly_sum": 51.44131786246229,
+      "annual_value": 51.4413178624623
+    },
+    "annual_sum_match_transport_2024": {
+      "passed": true,
+      "error": 1.3618000676278742e-16,
+      "monthly_sum": 52.17672936364278,
+      "annual_value": 52.17672936364277
+    },
+    "annual_sum_match_transport_2025": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 52.96256976952366,
+      "annual_value": 52.96256976952366
+    },
+    "annual_sum_match_industry_2005": {
+      "passed": true,
+      "error": 2.3684757858670006e-16,
+      "monthly_sum": 59.999999999999986,
+      "annual_value": 60.0
+    },
+    "annual_sum_match_industry_2006": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 61.07637768219875,
+      "annual_value": 61.07637768219875
+    },
+    "annual_sum_match_industry_2007": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 62.14418989737588,
+      "annual_value": 62.14418989737588
+    },
+    "annual_sum_match_industry_2008": {
+      "passed": true,
+      "error": 1.124251669430561e-16,
+      "monthly_sum": 63.2013947659952,
+      "annual_value": 63.20139476599519
+    },
+    "annual_sum_match_industry_2009": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 64.24588867229906,
+      "annual_value": 64.24588867229906
+    },
+    "annual_sum_match_industry_2010": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 65.27553100227543,
+      "annual_value": 65.27553100227543
+    },
+    "annual_sum_match_industry_2011": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 66.28816964957348,
+      "annual_value": 66.28816964957348
+    },
+    "annual_sum_match_industry_2012": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 67.28166697991433,
+      "annual_value": 67.28166697991433
+    },
+    "annual_sum_match_industry_2013": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 68.25392593708627,
+      "annual_value": 68.25392593708627
+    },
+    "annual_sum_match_industry_2014": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 69.20291597002658,
+      "annual_value": 69.20291597002658
+    },
+    "annual_sum_match_industry_2015": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 70.1266984608258,
+      "annual_value": 70.1266984608258
+    },
+    "annual_sum_match_industry_2016": {
+      "passed": true,
+      "error": 2.000867945380935e-16,
+      "monthly_sum": 71.0234513377467,
+      "annual_value": 71.02345133774669
+    },
+    "annual_sum_match_industry_2017": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 71.8914925654861,
+      "annual_value": 71.8914925654861
+    },
+    "annual_sum_match_industry_2018": {
+      "passed": true,
+      "error": 1.9539379977597439e-16,
+      "monthly_sum": 72.729302216832,
+      "annual_value": 72.72930221683201
+    },
+    "annual_sum_match_industry_2019": {
+      "passed": true,
+      "error": 1.9325151029442708e-16,
+      "monthly_sum": 73.53554284544087,
+      "annual_value": 73.53554284544089
+    },
+    "annual_sum_match_industry_2020": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 74.30907789850448,
+      "annual_value": 74.30907789850448
+    },
+    "annual_sum_match_industry_2021": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 75.04898793036048,
+      "annual_value": 75.04898793036048
+    },
+    "annual_sum_match_industry_2022": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 75.75458440337239,
+      "annual_value": 75.75458440337239
+    },
+    "annual_sum_match_industry_2023": {
+      "passed": true,
+      "error": 1.8594408182049652e-16,
+      "monthly_sum": 76.42542089035472,
+      "annual_value": 76.42542089035473
+    },
+    "annual_sum_match_industry_2024": {
+      "passed": true,
+      "error": 0.0,
+      "monthly_sum": 77.06130152312306,
+      "annual_value": 77.06130152312306
+    },
+    "annual_sum_match_industry_2025": {
+      "passed": true,
+      "error": 1.8298269783086636e-16,
+      "monthly_sum": 77.66228656404067,
+      "annual_value": 77.66228656404066
+    },
+    "no_missing_values": {
+      "passed": true,
+      "missing_count": 0
+    },
+    "positive_values": {
+      "passed": true,
+      "negative_count": 0
+    }
+  },
+  "overall_score": 1.0
+}

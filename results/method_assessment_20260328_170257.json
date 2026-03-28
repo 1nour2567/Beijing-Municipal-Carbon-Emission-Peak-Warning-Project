@@ -1,0 +1,166 @@
+{
+  "timestamp": "2026-03-28T17:02:57.275574",
+  "disaggregation_trace": {
+    "total": {
+      "weight_variation": 0.010549830342645417,
+      "annual_match": 6.767073673905716e-15
+    },
+    "building": {
+      "weight_variation": 0.010549830342645417,
+      "annual_match": 3.045183153257572e-15
+    },
+    "transport": {
+      "weight_variation": 0.010549830342645417,
+      "annual_match": 2.7068294695622863e-15
+    },
+    "industry": {
+      "weight_variation": 0.010549830342645417,
+      "annual_match": 2.3684757858670005e-15
+    }
+  },
+  "stl_decomposition_summary": {
+    "building": {
+      "trend_variance": 0.37739697498024377,
+      "seasonal_variance": 0.4600291732132279,
+      "residual_variance": 0.0033728271669436973,
+      "explained_variance_ratio": 0.9959885451031885
+    },
+    "industry": {
+      "trend_variance": 0.20599528312296567,
+      "seasonal_variance": 0.5337059983828936,
+      "residual_variance": 0.0038090762875423313,
+      "explained_variance_ratio": 0.994876902187554
+    },
+    "total": {
+      "trend_variance": 2.820846991804574,
+      "seasonal_variance": 3.726749760861019,
+      "residual_variance": 0.027238741200947623,
+      "explained_variance_ratio": 0.9958571220182836
+    },
+    "transport": {
+      "trend_variance": 0.13939181864653952,
+      "seasonal_variance": 0.2326877082485486,
+      "residual_variance": 0.0016878231902381754,
+      "explained_variance_ratio": 0.9954842947361431
+    }
+  },
+  "stationarity_results": {
+    "building_original": {
+      "ADF_statistic": -3.934653160300482,
+      "ADF_pvalue": 0.0017941146229471091,
+      "ADF_critical_values": {
+        "1%": -3.4583663275730476,
+        "5%": -2.8738660999177132,
+        "10%": -2.5733390785693766
+      },
+      "KPSS_statistic": 2.5300240097821405,
+      "KPSS_pvalue": 0.01,
+      "KPSS_critical_values": {
+        "10%": 0.347,
+        "5%": 0.463,
+        "2.5%": 0.574,
+        "1%": 0.739
+      },
+      "is_stationary_adf": true,
+      "is_stationary_kpss": false
+    },
+    "industry_original": {
+      "ADF_statistic": -4.484085351046711,
+      "ADF_pvalue": 0.00021007838445192772,
+      "ADF_critical_values": {
+        "1%": -3.4584868856997004,
+        "5%": -2.873918902362675,
+        "10%": -2.573367247623359
+      },
+      "KPSS_statistic": 2.4423189490730373,
+      "KPSS_pvalue": 0.01,
+      "KPSS_critical_values": {
+        "10%": 0.347,
+        "5%": 0.463,
+        "2.5%": 0.574,
+        "1%": 0.739
+      },
+      "is_stationary_adf": true,
+      "is_stationary_kpss": false
+    },
+    "total_original": {
+      "ADF_statistic": -2.5065760850632732,
+      "ADF_pvalue": 0.11388248022129266,
+      "ADF_critical_values": {
+        "1%": -3.4584868856997004,
+        "5%": -2.873918902362675,
+        "10%": -2.573367247623359
+      },
+      "KPSS_statistic": 2.5216659594152766,
+      "KPSS_pvalue": 0.01,
+      "KPSS_critical_values": {
+        "10%": 0.347,
+        "5%": 0.463,
+        "2.5%": 0.574,
+        "1%": 0.739
+      },
+      "is_stationary_adf": false,
+      "is_stationary_kpss": false
+    },
+    "total_diff1": {
+      "ADF_statistic": -11.21382247745484,
+      "ADF_pvalue": 2.0934769532208264e-20,
+      "ADF_critical_values": {
+        "1%": -3.4583663275730476,
+        "5%": -2.8738660999177132,
+        "10%": -2.5733390785693766
+      },
+      "KPSS_statistic": 0.08025041428820033,
+      "KPSS_pvalue": 0.1,
+      "KPSS_critical_values": {
+        "10%": 0.347,
+        "5%": 0.463,
+        "2.5%": 0.574,
+        "1%": 0.739
+      },
+      "is_stationary_adf": true,
+      "is_stationary_kpss": true
+    },
+    "transport_original": {
+      "ADF_statistic": -4.735919744966311,
+      "ADF_pvalue": 7.20058898931962e-05,
+      "ADF_critical_values": {
+        "1%": -3.4583663275730476,
+        "5%": -2.8738660999177132,
+        "10%": -2.5733390785693766
+      },
+      "KPSS_statistic": 2.552335132079361,
+      "KPSS_pvalue": 0.01,
+      "KPSS_critical_values": {
+        "10%": 0.347,
+        "5%": 0.463,
+        "2.5%": 0.574,
+        "1%": 0.739
+      },
+      "is_stationary_adf": true,
+      "is_stationary_kpss": false
+    }
+  },
+  "outlier_summary": {
+    "total": {
+      "total_observations": 252,
+      "outlier_count": 0,
+      "outlier_ratio": 0.0
+    },
+    "building": {
+      "total_observations": 252,
+      "outlier_count": 0,
+      "outlier_ratio": 0.0
+    },
+    "transport": {
+      "total_observations": 252,
+      "outlier_count": 0,
+      "outlier_ratio": 0.0
+    },
+    "industry": {
+      "total_observations": 252,
+      "outlier_count": 0,
+      "outlier_ratio": 0.0
+    }
+  }
+}
